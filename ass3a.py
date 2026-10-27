@@ -1,7 +1,5 @@
 import random
 import time
-
-
 class TrafficController:
 
     def __init__(self):
